@@ -1,4 +1,4 @@
-### Hi there 👋 tungblack
+### ![Tungblack Developer](https://img.shields.io/badge/Tungblack-Developer-blue.svg)
 <!--
 **tungblack/tungblack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
