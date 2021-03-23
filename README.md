@@ -1,4 +1,5 @@
-### ![Tungblack Developer](https://img.shields.io/badge/Tungblack-Developer-blue.svg) 🇻🇳 🇻🇳 🇻🇳 
+### ![Tungblack Developer](https://img.shields.io/badge/Tungblack-Developer-blue.svg) 
+[![Tungblack's github stats](https://github-readme-stats.vercel.app/api?username=Tungblack&count_private=true&show_icons=true&theme=radical)](https://github.com/tungblack)
 <!--
 **tungblack/tungblack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
