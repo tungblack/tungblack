@@ -1,6 +1,6 @@
 ### ![Tungblack Developer](https://img.shields.io/badge/Tungblack-Vietnam-blue.svg) 
-[![Tungblack Github Stats](https://github-readme-stats.vercel.app/api?username=Tungblack&count_private=true&show_icons=true&theme=radical)](https://github.com/tungblack)
-<!--
+![tungblack's github stats](https://github-readme-stats.vercel.app/api?username=tungblack&show_icons=true&theme=tokyonight)- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tungblack&show_icons=true&theme=tokyonight)
+
 **tungblack/tungblack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
